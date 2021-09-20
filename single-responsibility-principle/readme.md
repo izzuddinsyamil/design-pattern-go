@@ -1,0 +1,1 @@
+The Idea of single responsibility principle is to avoid one Type doing more than one thing. In the example code, the Journal type only deals with adding and printing journal entries. As the result, the functionalities for persistence handling is handled by a different function or Type.
